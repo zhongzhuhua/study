@@ -8,4 +8,4 @@ window 记住用户名和密码
 git config –-global credential.helper store
 
 window push 当前 branch 变更
-git config push.default current
+git config --global push.default [matching|current]
