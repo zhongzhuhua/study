@@ -9,3 +9,6 @@ git config –-global credential.helper store
 
 window push 当前 branch 变更
 git config --global push.default [matching|current]
+
+压合合并
+git merge --squash 分支名称
