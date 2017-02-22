@@ -45,3 +45,9 @@
 # 安装 sass
   [sudo] gem install sass
 # sass -v 查看 sass 版本
+
+
+
+# 安装 cnpm 
+$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+
